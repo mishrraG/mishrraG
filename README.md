@@ -17,7 +17,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-max-1mb.gif" />
 
-**Talking about Personal Stuffs/Achievements:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently working on a few Flutter projects.
 - 🌱 I’m currently learning Web Development.
