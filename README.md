@@ -45,20 +45,3 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=mishrraG&show_icons=true&hide_border=true)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/mishrraG/mishrraG) :pencil:
-
-⭐️ Recent projects in which I have contributed :rocket:
-
-
-<a href="https://github.com/mishrraG/100DaysOfCP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mishrraG&repo=100DaysOfCP"/>
-</a>
-<br><br><br><br><br>
-&nbsp;
-<a href="https://github.com/mishrraG/Neuomorphic_app">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mishrraG&repo=Neuomorphic_app"/>
-</a>
-<br><br><br><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mishrraG/News">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mishrraG&repo=News"/>
-</a>
