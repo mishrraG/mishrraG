@@ -46,4 +46,4 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=mishrraG&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/mishrraG/mishrraG) :pencil:
+:pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/mishrraG/mishrraG) :pencil:
