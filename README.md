@@ -15,7 +15,7 @@ Hi, I'm Arpit Mishra, an Android Developer 🚀 from India, currently a CS Junio
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 **Talking about Personal Stuff:**
 
