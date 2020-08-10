@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm <a href="https://github.com/mishrraG">Arpit</a>
+
+![](https://komarev.com/ghpvc/?username=mishrraG&style=flat-square)
+
 <a href="https://twitter.com/mish_rr_a">
   <img align="left" alt="Arpit Mishra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
