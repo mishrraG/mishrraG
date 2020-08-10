@@ -44,6 +44,6 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=mishrraG&show_icons=true&hide_border=true)
+![Arpit's github stats]<img src="https://github-readme-stats.vercel.app/api?username=mishrraG&show_icons=true&theme=dark&line_height=40">
 
 :pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/mishrraG/mishrraG) :pencil:
