@@ -1,4 +1,4 @@
-## Hi there <img src ="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-small.gif" height = "25"> </img>
+<h2> Hi there <img src ="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-small.gif" height = "25"> </img> </h2>
 
 <h3> I'm <a href="https://mishrrag.github.io/" target="_blank">Arpit</a> </h3>
 
