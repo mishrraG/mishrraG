@@ -1,4 +1,6 @@
-### Hi there <img src ="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-small.gif" height = "25"> </img>I'm <a href="https://mishrrag.github.io/" target="_blank">Arpit</a>
+## Hi there <img src ="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-small.gif" height = "25"> </img>
+
+<h3> I'm <a href="https://mishrrag.github.io/" target="_blank">Arpit</a> </h3>
 
 ![](https://komarev.com/ghpvc/?username=mishrraG&style=flat-square)
 
