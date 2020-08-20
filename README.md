@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://mishrrag.github.io/">Arpit</a>
+### Hi there 👋 I'm <a href="https://mishrrag.github.io/" target="_blank">Arpit</a>
 
 ![](https://komarev.com/ghpvc/?username=mishrraG&style=flat-square)
 
